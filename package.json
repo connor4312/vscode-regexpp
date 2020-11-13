@@ -1,5 +1,5 @@
 {
-  "name": "regexpp",
+  "name": "@c4312/vscode-regexpp",
   "version": "3.1.0",
   "description": "Regular expression parser for ECMAScript.",
   "engines": {
